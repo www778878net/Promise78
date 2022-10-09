@@ -37,7 +37,7 @@ nothing
 
 ```js
 ...
-//const clone78 = require('../dist/index').default;
+
 import Promise78 from "@www778878net/promise78"
 function test() {
     return new Promise78((resolve, reject) => {
