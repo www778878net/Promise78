@@ -1,6 +1,6 @@
 {
-  "name": "@www778878net/promise78",
-  "version": "0.0.2",
+  "name": "promise78",
+  "version": "0.0.3",
   "description": "no try catch;let [err,data]= await Promise78func()",
   "main": "dist/index.js",
   "types": "src/index.ts",
